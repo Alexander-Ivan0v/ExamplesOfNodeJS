@@ -1,0 +1,16 @@
+POST http://10.10.109.86:5000/api/v1/cherwell/ticket HTTP/1.1
+User-Agent: Fiddler
+Host: 10.10.109.86:5000
+Authorization: Basic TVNTXEFkbWluaXN0cmF0b3I6UEBzc3cwcmQ=
+Content-Type: text/json
+Content-Length: 0
+
+
+{
+    "Comment": "sdfdsfdsfdsf",
+    "Rating": 5,
+    "Dates": 2,
+    "IsAnonym": false
+}
+
+

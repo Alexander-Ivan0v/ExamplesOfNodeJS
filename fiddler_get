@@ -1,0 +1,5 @@
+GET http://localhost:5000/ HTTP/1.1
+User-Agent: Fiddler
+Host: localhost:5000
+Authorization: Basic TVNTXEFkbWluaXN0cmF0b3I6UEBzc3cwcmQ=
+

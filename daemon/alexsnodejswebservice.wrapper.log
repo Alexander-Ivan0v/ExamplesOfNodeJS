@@ -1,0 +1,112 @@
+2017-02-24 01:15:24 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator.MSS\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file c:\Projects\NodeSrvTst\server.js --log "Alex`s NodeJs Web Service wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-02-24 01:15:24 - Started 1084
+2017-02-24 01:26:25 - Stopping alexsnodejswebservice.exe
+2017-02-24 01:26:25 - ProcessKill 1084
+2017-02-24 01:26:25 - Found child process: 2344 Name: conhost.exe
+2017-02-24 01:26:25 - Found child process: 1164 Name: node.exe
+2017-02-24 01:26:25 - Stopping process 2344
+2017-02-24 01:26:25 - Send SIGINT 2344
+2017-02-24 01:26:25 - SIGINT to 2344 failed - Killing as fallback
+2017-02-24 01:26:25 - Stopping process 1164
+2017-02-24 01:26:25 - Send SIGINT 1164
+2017-02-24 01:26:25 - SIGINT to 1164 failed - Killing as fallback
+2017-02-24 01:26:25 - Stopping process 1084
+2017-02-24 01:26:25 - Send SIGINT 1084
+2017-02-24 01:26:25 - SIGINT to 1084 failed - Killing as fallback
+2017-02-24 01:26:25 - Finished alexsnodejswebservice.exe
+2017-02-24 08:42:04 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator.MSS\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file c:\Projects\NodeSrvTst\server.js --log "Alex`s NodeJs Web Service wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-02-24 08:42:05 - Started 6132
+2017-02-24 08:42:49 - Stopping alexsnodejswebservice.exe
+2017-02-24 08:42:49 - ProcessKill 6132
+2017-02-24 08:42:49 - Found child process: 5292 Name: conhost.exe
+2017-02-24 08:42:49 - Found child process: 4564 Name: node.exe
+2017-02-24 08:42:49 - Stopping process 5292
+2017-02-24 08:42:49 - Send SIGINT 5292
+2017-02-24 08:42:49 - SIGINT to 5292 failed - Killing as fallback
+2017-02-24 08:42:49 - Found child process: 4880 Name: node.exe
+2017-02-24 08:42:49 - Found child process: 1768 Name: node.exe
+2017-02-24 08:42:49 - Found child process: 5040 Name: node.exe
+2017-02-24 08:42:49 - Found child process: 5488 Name: node.exe
+2017-02-24 08:42:49 - Found child process: 2264 Name: conhost.exe
+2017-02-24 08:42:49 - Stopping process 2264
+2017-02-24 08:42:49 - Send SIGINT 2264
+2017-02-24 08:42:49 - SIGINT to 2264 failed - Killing as fallback
+2017-02-24 08:42:49 - Stopping process 4880
+2017-02-24 08:42:49 - Send SIGINT 4880
+2017-02-24 08:42:49 - SIGINT to 4880 failed - Killing as fallback
+2017-02-24 08:42:49 - Found child process: 4144 Name: conhost.exe
+2017-02-24 08:42:49 - Stopping process 4144
+2017-02-24 08:42:49 - Send SIGINT 4144
+2017-02-24 08:42:49 - SIGINT to 4144 failed - Killing as fallback
+2017-02-24 08:42:49 - Stopping process 1768
+2017-02-24 08:42:49 - Send SIGINT 1768
+2017-02-24 08:42:49 - SIGINT to 1768 failed - Killing as fallback
+2017-02-24 08:42:49 - Found child process: 3080 Name: conhost.exe
+2017-02-24 08:42:49 - Stopping process 3080
+2017-02-24 08:42:49 - Send SIGINT 3080
+2017-02-24 08:42:49 - SIGINT to 3080 failed - Killing as fallback
+2017-02-24 08:42:49 - Stopping process 5040
+2017-02-24 08:42:49 - Send SIGINT 5040
+2017-02-24 08:42:49 - SIGINT to 5040 failed - Killing as fallback
+2017-02-24 08:42:49 - Found child process: 5248 Name: conhost.exe
+2017-02-24 08:42:49 - Stopping process 5248
+2017-02-24 08:42:49 - Send SIGINT 5248
+2017-02-24 08:42:49 - SIGINT to 5248 failed - Killing as fallback
+2017-02-24 08:42:49 - Stopping process 5488
+2017-02-24 08:42:49 - Send SIGINT 5488
+2017-02-24 08:42:49 - SIGINT to 5488 failed - Killing as fallback
+2017-02-24 08:42:49 - Stopping process 4564
+2017-02-24 08:42:49 - Send SIGINT 4564
+2017-02-24 08:42:49 - SIGINT to 4564 failed - Killing as fallback
+2017-02-24 08:42:49 - Stopping process 6132
+2017-02-24 08:42:49 - Send SIGINT 6132
+2017-02-24 08:42:49 - SIGINT to 6132 failed - Killing as fallback
+2017-02-24 08:42:49 - Finished alexsnodejswebservice.exe
+2017-03-01 03:53:30 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Administrator.MSS\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file c:\Projects\NodeSrvTst\server.js --log "Alex`s NodeJs Web Service wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2017-03-01 03:53:30 - Started 1160
+2017-03-01 03:59:31 - Stopping alexsnodejswebservice.exe
+2017-03-01 03:59:31 - ProcessKill 1160
+2017-03-01 03:59:32 - Found child process: 1168 Name: conhost.exe
+2017-03-01 03:59:32 - Found child process: 1240 Name: node.exe
+2017-03-01 03:59:32 - Stopping process 1168
+2017-03-01 03:59:32 - Send SIGINT 1168
+2017-03-01 03:59:32 - SIGINT to 1168 failed - Killing as fallback
+2017-03-01 03:59:32 - Found child process: 2192 Name: node.exe
+2017-03-01 03:59:32 - Found child process: 2212 Name: node.exe
+2017-03-01 03:59:32 - Found child process: 2228 Name: node.exe
+2017-03-01 03:59:32 - Found child process: 2236 Name: node.exe
+2017-03-01 03:59:32 - Found child process: 2204 Name: conhost.exe
+2017-03-01 03:59:32 - Stopping process 2204
+2017-03-01 03:59:32 - Send SIGINT 2204
+2017-03-01 03:59:32 - SIGINT to 2204 failed - Killing as fallback
+2017-03-01 03:59:32 - Stopping process 2192
+2017-03-01 03:59:32 - Send SIGINT 2192
+2017-03-01 03:59:32 - SIGINT to 2192 failed - Killing as fallback
+2017-03-01 03:59:32 - Found child process: 2220 Name: conhost.exe
+2017-03-01 03:59:32 - Stopping process 2220
+2017-03-01 03:59:32 - Send SIGINT 2220
+2017-03-01 03:59:32 - SIGINT to 2220 failed - Killing as fallback
+2017-03-01 03:59:32 - Stopping process 2212
+2017-03-01 03:59:32 - Send SIGINT 2212
+2017-03-01 03:59:32 - SIGINT to 2212 failed - Killing as fallback
+2017-03-01 03:59:32 - Found child process: 2248 Name: conhost.exe
+2017-03-01 03:59:32 - Stopping process 2248
+2017-03-01 03:59:32 - Send SIGINT 2248
+2017-03-01 03:59:32 - SIGINT to 2248 failed - Killing as fallback
+2017-03-01 03:59:32 - Stopping process 2228
+2017-03-01 03:59:32 - Send SIGINT 2228
+2017-03-01 03:59:32 - SIGINT to 2228 failed - Killing as fallback
+2017-03-01 03:59:32 - Found child process: 2256 Name: conhost.exe
+2017-03-01 03:59:32 - Stopping process 2256
+2017-03-01 03:59:32 - Send SIGINT 2256
+2017-03-01 03:59:32 - SIGINT to 2256 failed - Killing as fallback
+2017-03-01 03:59:32 - Stopping process 2236
+2017-03-01 03:59:32 - Send SIGINT 2236
+2017-03-01 03:59:32 - SIGINT to 2236 failed - Killing as fallback
+2017-03-01 03:59:32 - Stopping process 1240
+2017-03-01 03:59:32 - Send SIGINT 1240
+2017-03-01 03:59:32 - SIGINT to 1240 failed - Killing as fallback
+2017-03-01 03:59:32 - Stopping process 1160
+2017-03-01 03:59:32 - Send SIGINT 1160
+2017-03-01 03:59:32 - SIGINT to 1160 failed - Killing as fallback
+2017-03-01 03:59:32 - Finished alexsnodejswebservice.exe
